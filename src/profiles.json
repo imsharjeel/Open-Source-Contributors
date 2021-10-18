@@ -74,5 +74,12 @@
     "major": "Computer Science",
     "githubUsername": "imsharjeel",
     "favoriteLanguage": "Html"
+  },
+    {
+    "name": "juniorxcoder",
+    "batch": 2021,
+    "major": "Computer Science",
+    "githubUsername": "juniorxcoder",
+    "favoriteLanguage": "php"
   }
 ]
